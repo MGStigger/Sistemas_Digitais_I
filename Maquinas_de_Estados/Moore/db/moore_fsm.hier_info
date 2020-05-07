@@ -1,0 +1,12 @@
+|moore_fsm
+clk => estado_atual~1.DATAIN
+rst => estado_atual~3.DATAIN
+entrada[0] => Equal0.IN1
+entrada[0] => Equal1.IN1
+entrada[0] => Equal2.IN0
+entrada[1] => Equal0.IN0
+entrada[1] => Equal1.IN0
+entrada[1] => Equal2.IN1
+saida << saida.DB_MAX_OUTPUT_PORT_TYPE
+
+

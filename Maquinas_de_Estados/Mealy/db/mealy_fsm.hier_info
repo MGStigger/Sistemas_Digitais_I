@@ -1,0 +1,15 @@
+|mealy_fsm
+clk => estado_atual~1.DATAIN
+rst => estado_atual~3.DATAIN
+entrada[0] => Mux0.IN5
+entrada[0] => Mux1.IN5
+entrada[0] => Mux2.IN5
+entrada[0] => Mux3.IN5
+entrada[1] => Mux0.IN4
+entrada[1] => Mux1.IN4
+entrada[1] => Mux2.IN4
+entrada[1] => Mux3.IN4
+entrada[1] => Selector0.IN1
+saida <= saida.DB_MAX_OUTPUT_PORT_TYPE
+
+

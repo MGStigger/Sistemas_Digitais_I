@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\MGStigger\Desktop\Trabalho_02\simulation\modelsim
+Emealy_fsm
+Z1 w1588705694
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\MGStigger\Desktop\Trabalho_02\simulation\modelsim
+Z5 8C:/Users/MGStigger/Desktop/Trabalho_02/mealy_fsm.vhd
+Z6 FC:/Users/MGStigger/Desktop/Trabalho_02/mealy_fsm.vhd
+l0
+L5
+VLD21b`J`PKD@Eh`^ZOmLD0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1588707640.115000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/MGStigger/Desktop/Trabalho_02/mealy_fsm.vhd|
+Z10 !s107 C:/Users/MGStigger/Desktop/Trabalho_02/mealy_fsm.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 m>bXjcl4MkZc?gBi<D^4c0
+!i10b 1
+Adetector_abc
+R2
+R3
+DEx4 work 9 mealy_fsm 0 22 LD21b`J`PKD@Eh`^ZOmLD0
+l17
+L12
+VFb2XY^zlVgUNo>VL<>[YJ0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 0z0<[d:GQ<;=7^O>JM=;83
+!i10b 1
+Emealy_tb
+Z13 w1588707486
+R2
+R3
+R4
+Z14 8C:/Users/MGStigger/Desktop/Trabalho_02/mealy_tb.vhd
+Z15 FC:/Users/MGStigger/Desktop/Trabalho_02/mealy_tb.vhd
+l0
+L4
+V7oR=RYFYGK`386`T@@]Po0
+!s100 O6>ojU5WIoHm@L4:g<f>93
+R7
+31
+!i10b 1
+Z16 !s108 1588707640.567000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/MGStigger/Desktop/Trabalho_02/mealy_tb.vhd|
+Z18 !s107 C:/Users/MGStigger/Desktop/Trabalho_02/mealy_tb.vhd|
+R11
+R12
+Atestbench
+R2
+R3
+DEx4 work 8 mealy_tb 0 22 7oR=RYFYGK`386`T@@]Po0
+l23
+L7
+VCCiFSc;Ta=ITdb?98QUAj2
+!s100 i@jRhU<X<9U4`oAJ4ODNC1
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
