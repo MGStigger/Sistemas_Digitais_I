@@ -1,0 +1,22 @@
+# Especificando arquivos não rastreados intencionalmente para ignorar.
+
+/Maquinas_de_Estados/Moore/moore_fsm.ipinfo
+/Maquinas_de_Estados/Moore/moore_fsm.qpf
+/Maquinas_de_Estados/Moore/moore_fsm.qsf
+/Maquinas_de_Estados/Moore/moore_fsm.qws
+/Maquinas_de_Estados/Moore/moore_fsm_nativelink_simulation.rpt
+/Maquinas_de_Estados/Moore/db/*
+/Maquinas_de_Estados/Moore/incremental_db/*
+/Maquinas_de_Estados/Moore/output_files/*
+/Maquinas_de_Estados/Moore/simulation/*
+
+/Maquinas_de_Estados/Mealy/mealy_fsm.ipinfo
+/Maquinas_de_Estados/Mealy/mealy_fsm.qpf
+/Maquinas_de_Estados/Mealy/mealy_fsm.qsf
+/Maquinas_de_Estados/Mealy/mealy_fsm.qws
+/Maquinas_de_Estados/Mealy/mealy_fsm_nativelink_simulation.rpt
+/Maquinas_de_Estados/Mealy/db/*
+/Maquinas_de_Estados/Mealy/incremental_db/*
+/Maquinas_de_Estados/Mealy/output_files/*
+/Maquinas_de_Estados/Mealy/simulation/*
+
