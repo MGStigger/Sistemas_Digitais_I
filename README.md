@@ -1,2 +1,2 @@
-# Sistemas_Digitais_I
+# Sistemas Digitais I
 Espaço para organização de atividades da disciplina de Sistemas Digitais I.
